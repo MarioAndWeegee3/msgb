@@ -1,0 +1,3 @@
+[submodule "CpuTests"]
+	path = CpuTests
+	url = https://github.com/SingleStepTests/sm83.git
